@@ -2,6 +2,7 @@
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31luycosywgajpvdjh2eigiak6ni">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31luycosywgajpvdjh2eigiak6ni" alt="Data Card for Spotify">
 </a>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -25,6 +26,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
 </div>
+
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=y0shih&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
